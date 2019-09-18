@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "13022674140",
+    "firebase_url": "https://learnenglish-da0c5.firebaseio.com",
+    "project_id": "learnenglish-da0c5",
+    "storage_bucket": "learnenglish-da0c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:13022674140:android:6aae09ee23e41ff7",
+        "android_client_info": {
+          "package_name": "com.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "13022674140-odrp9uild7v30qvv0rqfdu7ehbp1khmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfGMHMbpFuuVBPTMnI76YPjwxXBKCk4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "13022674140-odrp9uild7v30qvv0rqfdu7ehbp1khmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
